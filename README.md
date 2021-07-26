@@ -10,11 +10,5 @@ Identified important factors for prediction of â€œOn-Time Delivery of shipmentsâ
 Decision Tree Classifier 
 ![Decision Tree Classifier](https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/shipment_tree.png)
 
-1. Decision Tress Classifier
-![Decision Tree Classifier](https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/DT.png)
-2. Random Forest 
-![Random Forest Classifier](https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/rfc.png)
-3. Logistic Regression 
-![Logistic Regression classifier](https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/LT.png)
-4. Support Vector Machine
-![Support Vector Classifier](https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/svc.png)
+![Decision Tree Classifier](https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/DT.png)![Random Forest Classifier](https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/rfc.png)
+![Logistic Regression classifier](https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/LR.png)![Support Vector Classifier](https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/svc.png)
