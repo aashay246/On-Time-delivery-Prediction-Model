@@ -11,7 +11,6 @@ Correlation Matrix
 Decision Tree Classifier 
 ![Decision Tree Classifier](https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/shipment_tree.png)
 
-Confusion Matrix 
 1. Decision Tress Classifier
 ![Decision Tree Classifier](https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/DT.png)
 2. Random Forest 
