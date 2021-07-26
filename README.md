@@ -17,4 +17,4 @@ Identified important factors for prediction of â€œOn-Time Delivery of shipmentsâ
 
 # Model Results 
 
-![](https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/Result.png)
+![](https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/Result.PNG)
