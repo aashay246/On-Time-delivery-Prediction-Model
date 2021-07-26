@@ -5,6 +5,9 @@ Comapared classification matrix from five different alogrithms - Decision Tree, 
 
 Identified important factors for prediction of “On-Time Delivery of shipments”
 
-Decision Tree Classifier 
+Correlation Matrix
 
+
+
+Decision Tree Classifier 
 ![Decision Tree Classifier](https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/shipment_tree.png)
