@@ -10,10 +10,10 @@ Identified important factors for prediction of â€œOn-Time Delivery of shipmentsâ
 ### Decision Tree Classifier 
 ![Decision Tree Classifier](https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/shipment_tree.png)
 
-## Confusiion Matrix for all four classifier
+## Confusion Matrix for all four classifier
 
-<img src="https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/DT.png" width="450"/> <img src="https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/rfc.png" width="450"/>
-<img src="https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/LR.png" width="450"/> <img src="https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/svc.png" width="450"/>
+<img src="https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/DT.png" width="300"/> <img src="https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/rfc.png" width="300"/>
+<img src="https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/LR.png" width="300"/> <img src="https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/svc.png" width="300"/>
 
 # Model Results 
 
