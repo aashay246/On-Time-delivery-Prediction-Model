@@ -5,7 +5,8 @@ Comapared classification matrix from five different alogrithms - Decision Tree, 
 
 Identified important factors for prediction of “On-Time Delivery of shipments”
 
-Correlation Matrix
+Correlation Matrix 
+![Correlation between dependent and independent variables]()
 
 
 
