@@ -6,7 +6,7 @@ Comapared classification matrix from five different alogrithms - Decision Tree, 
 Identified important factors for prediction of “On-Time Delivery of shipments”
 
 Correlation Matrix 
-![Correlation between dependent and independent variables]()
+![Correlation between dependent and independent variables](https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/Corr_all.png)
 
 
 
