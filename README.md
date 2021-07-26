@@ -12,8 +12,8 @@ Identified important factors for prediction of â€œOn-Time Delivery of shipmentsâ
 
 ## Confusion Matrix for all four classifier
 
-<img src="https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/DT.png" width="300"/> <img src="https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/rfc.png" width="300"/>
-<img src="https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/LR.png" width="300"/> <img src="https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/svc.png" width="300"/>
+<img src="https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/DT.png" width="400"/> <img src="https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/rfc.png" width="400"/>
+<img src="https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/LR.png" width="400"/> <img src="https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/svc.png" width="400"/>
 
 # Model Results 
 
