@@ -7,7 +7,7 @@ Identified important factors for prediction of â€œOn-Time Delivery of shipmentsâ
  
 ![Correlation between dependent and independent variables](https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/Corr_all.png)
 
-Decision Tree Classifier 
+### Decision Tree Classifier 
 ![Decision Tree Classifier](https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/shipment_tree.png)
 
 ## Confusiion Matrix for all four classifier
