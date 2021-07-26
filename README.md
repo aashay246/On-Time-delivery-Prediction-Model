@@ -7,4 +7,4 @@ Identified important factors for prediction of â€œOn-Time Delivery of shipmentsâ
 
 Decision Tree Classifier 
 
-![Decision Tree Classifier] (https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/shipment_tree.png)
+![Decision Tree Classifier](https://github.com/aashay246/On-Time-delivery-Prediction-Model/blob/main/shipment_tree.png)
